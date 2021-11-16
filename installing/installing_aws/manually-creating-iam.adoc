@@ -12,8 +12,8 @@ In environments where the cloud identity and access management (IAM) APIs are no
 
 include::modules/alternatives-to-storing-admin-secrets-in-kube-system.adoc[leveloffset=+1]
 
+[role="_additional-resources"]
 .Additional resources
-
 // AWS only. Condition out if combining topic for AWS/Azure/GCP.
 * To learn how to use the CCO utility (`ccoctl`) to configure the CCO to use the AWS STS, see xref:../../authentication/managing_cloud_provider_credentials/cco-mode-sts.adoc#cco-mode-sts[Using manual mode with STS].
 

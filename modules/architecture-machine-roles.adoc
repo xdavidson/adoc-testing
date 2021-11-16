@@ -1,6 +1,8 @@
 // Module included in the following assemblies:
 //
 // * architecture/architecture.adoc
+
+:_content-type: CONCEPT
 [id="architecture-machine-roles_{context}"]
 = Machine roles in {product-title}
 

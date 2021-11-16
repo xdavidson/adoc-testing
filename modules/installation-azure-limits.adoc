@@ -23,6 +23,7 @@ ifeval::["{context}" == "installing-azure-account"]
 :cp: Azure
 endif::[]
 
+:_content-type: REFERENCE
 [id="installation-azure-limits_{context}"]
 = {cp} account limits
 

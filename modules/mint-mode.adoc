@@ -4,6 +4,7 @@
 // * installing/installing_azure/manually-creating-iam-azure.adoc
 // * installing/installing_gcp/manually-creating-iam-gcp.adoc
 
+:_content-type: CONCEPT
 [id="mint-mode_{context}"]
 = Mint mode
 

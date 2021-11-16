@@ -4,6 +4,7 @@
 // * installing/installing_openstack/installing-openstack-user-kuryr.adoc
 // * post_installation_configuration/network-configuration.adoc
 
+:_content-type: CONCEPT
 [id="installation-osp-kuryr-port-pools_{context}"]
 = Kuryr ports pools
 

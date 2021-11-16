@@ -2,8 +2,8 @@
 //
 // * installing/install_config/installing-customizing.adoc
 
+:_content-type: PROCEDURE
 [id="installation-special-config-rtkernel_{context}"]
-
 = Adding a real-time kernel to nodes (during installation)
 
 Some {product-title} workloads require a high degree of determinism.

@@ -166,6 +166,7 @@ ifeval::["{context}" == "installing-restricted-networks-ibm-power"]
 :ibm-power:
 endif::[]
 
+:_content-type: REFERENCE
 [id="installation-configuration-parameters_{context}"]
 = Installation configuration parameters
 

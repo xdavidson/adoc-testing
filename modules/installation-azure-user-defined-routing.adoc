@@ -2,6 +2,7 @@
 //
 // * installing/installing_azure/installing-azure-private.adoc
 
+:_content-type: CONCEPT
 [id="installation-azure-user-defined-routing_{context}"]
 = User-defined outbound routing
 

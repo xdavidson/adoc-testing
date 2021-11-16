@@ -2,6 +2,7 @@
 //
 // * architecture/architecture_rhcos.adoc
 
+:_content-type: CONCEPT
 [id="digging-into-machine-config_{context}"]
 = Changing Ignition configs after installation
 

@@ -4,6 +4,7 @@
 // * installing/installing_aws/installing-aws-private.adoc
 // * post_installation_configuration/node-tasks.adoc
 
+:_content-type: CONCEPT
 [id="private-clusters-about-aws_{context}"]
 = Private clusters in AWS
 

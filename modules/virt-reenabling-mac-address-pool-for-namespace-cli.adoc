@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/vm_networking/virt-using-mac-address-pool-for-vms.adoc
 
+:_content-type: PROCEDURE
 [id="virt-reenabling-mac-address-pool-for-namespace-cli_{context}"]
 = Re-enabling a MAC address pool for a namespace in the CLI
 
@@ -21,4 +22,3 @@ The following example re-enables KubeMacPool for two namespaces, `<namespace1>` 
 ----
 $ oc label namespace <namespace1> <namespace2> mutatevirtualmachines.kubemacpool.io-
 ----
-

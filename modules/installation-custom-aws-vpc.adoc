@@ -4,6 +4,7 @@
 // * installing/installing_aws/installing-aws-private.adoc
 // * installing/installing_aws/installing-aws-vpc.adoc
 
+:_content-type: CONCEPT
 [id="installation-custom-aws-vpc_{context}"]
 = About using a custom VPC
 ifeval::["{context}" == "installing-aws-china-region"]

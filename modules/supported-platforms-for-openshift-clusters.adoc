@@ -3,6 +3,7 @@
 // * architecture/architecture-installation.adoc
 // * installing/index.adoc
 
+:_content-type: CONCEPT
 [id="supported-platforms-for-openshift-clusters_{context}"]
 = Supported platforms for {product-title} clusters
 

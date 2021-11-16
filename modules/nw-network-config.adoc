@@ -11,6 +11,7 @@
 // * installing/installing_vsphere/installing-vsphere-installer-provisioned-network-customizations.adoc
 // * installing/installing_gcp/installing-gcp-network-customizations.adoc
 
+:_content-type: CONCEPT
 [id="nw-network-config_{context}"]
 = Network configuration phases
 

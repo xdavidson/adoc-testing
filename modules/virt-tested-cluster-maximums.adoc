@@ -2,6 +2,7 @@
 //
 // virt/install/virt-planning-environment-object-maximums.adoc
 
+:_content-type: REFERENCE
 [id="virt-tested-cluster-maximums_{context}"]
 = Tested cluster maximums for {VirtProductName}
 

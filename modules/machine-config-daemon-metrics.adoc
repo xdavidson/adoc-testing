@@ -2,6 +2,7 @@
 //
 // * nodes/nodes/nodes-nodes-machine-config-daemon-metrics.adoc
 
+:_content-type: CONCEPT
 [id="machine-config-daemon-metrics_{context}"]
 = Machine Config Daemon metrics
 

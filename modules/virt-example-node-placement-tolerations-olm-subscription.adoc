@@ -2,6 +2,7 @@
 //
 // * virt/install/virt-specifying-nodes-for-virtualization-components.adoc
 
+:_content-type: REFERENCE
 [id="virt-example-node-placement-tolerations-olm-subscription_{context}"]
 = Example: Node placement with tolerations in the OLM Subscription object
 

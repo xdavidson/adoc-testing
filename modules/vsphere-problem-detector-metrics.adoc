@@ -4,6 +4,7 @@
 
 :operator-name: vSphere Problem Detector Operator
 
+:_content-type: REFERENCE
 [id="vsphere-problem-detector-operator-metrics_{context}"]
 = Metrics for the {operator-name}
 

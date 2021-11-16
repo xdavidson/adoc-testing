@@ -3,6 +3,7 @@
 // * virt/virtual_machines/cloning_vms/virt-cloning-vm-using-datavolumetemplate.adoc
 // * virt/virtual_machines/importing_vms/virt-importing-virtual-machine-images-datavolumes.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-datavolume-vm_{context}"]
 = Template: Data volume virtual machine configuration file
 

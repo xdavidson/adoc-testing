@@ -2,6 +2,7 @@
 //
 // * virt/node_maintenance/virt-refresh-certificates.adoc
 
+:_content-type: PROCEDURE
 [id="virt-refreshing-certificates_{context}"]
 = Refreshing TLS certificates
 

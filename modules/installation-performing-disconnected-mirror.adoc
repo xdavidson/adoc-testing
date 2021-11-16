@@ -2,6 +2,7 @@
 //
 // * installing/installing_restricted_networks/installing-restricted-networks-preparations.adoc
 
+:_content-type: PROCEDURE
 [id="installation-performing-disconnected-mirror"]
 = Mirroring the {product-title} image registry contents to disk for use in disconnected environments
 

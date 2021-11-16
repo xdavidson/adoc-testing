@@ -1,8 +1,8 @@
 // Module included in the following assemblies:
 // //installing/installing_bare_metal_ipi/installing_bare_metal_ipi/ipi-install-troubleshooting.adoc
 
+:_content-type: PROCEDURE
 [id="ipi-install-troubleshooting-reviewing-the-installation_{context}"]
-
 = Reviewing the installation
 
 After installation, ensure the installer deployed the nodes and pods successfully.

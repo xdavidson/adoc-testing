@@ -2,6 +2,7 @@
 //
 // * installing/installing-mirroring-installation-images.adoc
 
+:_content-type: CONCEPT
 [id="olm-mirror-catalog-prerequisites_{context}"]
 = Prerequisites
 

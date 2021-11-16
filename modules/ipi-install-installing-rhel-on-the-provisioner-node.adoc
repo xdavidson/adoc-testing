@@ -2,6 +2,8 @@
 //
 // * list of assemblies where this module is included
 // ipi-install-installation-workflow.adoc
+
+:_content-type: CONCEPT
 [id="installing-rhel-on-the-provisioner-node_{context}"]
 = Installing RHEL on the provisioner node
 

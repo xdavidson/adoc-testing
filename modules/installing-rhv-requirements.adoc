@@ -5,6 +5,7 @@
 // * installing/installing_rhv/installing-rhv-user-infra.adoc
 // * installing/installing_rhv/installing-rhv-restricted-network.adoc
 
+:_content-type: REFERENCE
 [id="installing-rhv-requirements_{context}"]
 = Requirements for the {rh-virtualization} environment
 

@@ -14,6 +14,7 @@ ifeval::["{context}" == "installing-restricted-networks-vmc-user-infra"]
 :restricted:
 endif::[]
 
+:_content-type: REFERENCE
 [id="installation-vsphere-config-yaml_{context}"]
 = Sample `install-config.yaml` file for VMware vSphere
 

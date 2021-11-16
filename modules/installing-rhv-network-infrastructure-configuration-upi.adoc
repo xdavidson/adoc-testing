@@ -2,6 +2,7 @@
 //
 // * installing/installing_rhv/installing-rhv-user-infra.adoc
 
+:_content-type: CONCEPT
 [id="installing-rhv-network-infrastructure-configuration-upi_{context}"]
 = Network infrastructure configuration for installing {product-title} on {rh-virtualization-first}
 

@@ -2,6 +2,7 @@
 //
 // *installing/validating-an-installation.adoc
 
+:_content-type: PROCEDURE
 [id="reviewing-cluster-status-from-the-openshift-web-console_{context}"]
 = Reviewing the cluster status from the {product-title} web console
 
@@ -30,5 +31,3 @@ You can review the following information in the *Overview* page in the {product-
 .Procedure
 
 * In the *Administrator* perspective, navigate to *Home* -> *Overview*.
-
-

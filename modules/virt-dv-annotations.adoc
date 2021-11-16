@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-managing-data-volume-annotations.adoc
 
+:_content-type: REFERENCE
 [id="virt-dv-annotations_{context}"]
 = Example: Data volume annotations
 

@@ -37,6 +37,7 @@ ifeval::["{context}" == "installing-vmc-network-customizations"]
 :vmc:
 endif::[]
 
+:_content-type: REFERENCE
 [id="installation-vsphere-infrastructure_{context}"]
 = VMware vSphere infrastructure requirements
 

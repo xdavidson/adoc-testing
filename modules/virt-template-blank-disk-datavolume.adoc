@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-expanding-virtual-storage-with-blank-disk-images.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-blank-disk-datavolume_{context}"]
 = Template: Data volume configuration file for blank disk images
 

@@ -2,6 +2,7 @@
 //
 // * welcome/accessing-your-services.adoc
 
+:_content-type: REFERENCE
 [id="dedicated-exposing-TCP-services_{context}"]
 = Exposing TCP services
 

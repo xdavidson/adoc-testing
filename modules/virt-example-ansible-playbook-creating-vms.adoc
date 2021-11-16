@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/advanced_vm_management/virt-automating-management-tasks.adoc
 
+:_content-type: REFERENCE
 [id="virt-example-ansible-playbook-creating-vms_{context}"]
 = Example: Ansible Playbook for creating virtual machines
 

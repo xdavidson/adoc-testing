@@ -2,6 +2,7 @@
 //
 // * rest_api/understanding-api-support-tiers.adoc
 
+:_content-type: CONCEPT
 [id="api-tiers_{context}"]
 = API tiers
 

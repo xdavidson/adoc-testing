@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virt-accessing-vm-consoles.adoc
 
+:_content-type: PROCEDURE
 [id="virt-accessing-rdp-console_{context}"]
 = Connecting to a Windows virtual machine with an RDP console
 
@@ -15,7 +16,7 @@ attached L2 NIC to your RDP client.
 
 * A running Windows virtual machine with the QEMU guest agent installed. The
 `qemu-guest-agent` is included in the VirtIO drivers.
-* A layer 2 NIC attached to the virtual machine. 
+* A layer 2 NIC attached to the virtual machine.
 * An RDP client installed on a machine on the same network as the
 Windows virtual machine.
 

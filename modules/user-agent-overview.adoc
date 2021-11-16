@@ -2,7 +2,7 @@
 //
 // * authentication/configuring_user_agent.adoc
 
-
+:_content-type: PROCEDURE
 [id="user-agent-overview_{context}"]
 = About the user agent
 

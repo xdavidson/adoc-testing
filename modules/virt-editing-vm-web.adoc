@@ -25,8 +25,8 @@ ifeval::["{context}" == "virt-edit-vms"]
 :object-vm-details: Details
 endif::[]
 
+:_content-type: PROCEDURE
 [id="virt-editing-vm-web_{context}"]
-
 = Editing a {object} in the web console
 
 Edit select values of a {object} in the web console by clicking the pencil icon next to the relevant field. Other values can be edited using the CLI.

@@ -2,6 +2,7 @@
 //
 // * virt/logging_events_monitoring/virt-events.adoc
 
+:_content-type: PROCEDURE
 [id="virt-viewing-namespace-events-cli_{context}"]
 = Viewing namespace events in the CLI
 
@@ -15,4 +16,3 @@ Use the {product-title} client to get the events for a namespace.
 ----
 $ oc get events
 ----
-

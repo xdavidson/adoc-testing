@@ -1,8 +1,8 @@
 // Module included in the following assemblies:
 // //installing/installing_bare_metal_ipi/installing_bare_metal_ipi/ipi-install-troubleshooting.adoc
 
+:_content-type: PROCEDURE
 [id="ipi-install-troubleshooting-bootstrap-vm_{context}"]
-
 = Bootstrap VM issues
 
 The {product-title} installer spawns a bootstrap node virtual machine, which handles provisioning the {product-title} cluster nodes.

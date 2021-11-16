@@ -2,6 +2,7 @@
 //
 // * virt/install/virt-specifying-nodes-for-virtualization-components.adoc
 
+:_content-type: REFERENCE
 [id="virt-example-node-placement-affinity-hyperconverged-cr_{context}"]
 = Example: Node placement with affinity in the HyperConverged Cluster CR
 

@@ -2,6 +2,7 @@
 //
 // * virt/vm_templates/virt-creating-vm-template.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-fields-for-boot-source_{context}"]
 = Virtual machine template fields for adding a boot source
 

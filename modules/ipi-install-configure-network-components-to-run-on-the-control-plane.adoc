@@ -1,8 +1,9 @@
 // This is included in the following assemblies:
 //
 // ipi-install-configuration-files.adoc
-[id='configure-network-components-to-run-on-the-control-plane_{context}']
 
+:_content-type: PROCEDURE
+[id='configure-network-components-to-run-on-the-control-plane_{context}']
 = Configure network components to run on the control plane
 
 Configure networking components to run exclusively on the control plane nodes. By default, {product-title} allows any node in the machine config pool to host the `apiVIP` and `ingressVIP` virtual IP addresses. However, many environments deploy worker nodes in separate subnets from the control plane nodes. Consequently, you must place the `apiVIP` and `ingressVIP` virtual IP addresses exclusively with the control plane nodes.

@@ -3,6 +3,7 @@
 // * virt/virtual_machines/virtual_disks/virt-using-container-disks-with-vms.adoc
 // * virt/virtual_machines/importing_vms/virt-importing-container-disk-with-datavolumes.adoc
 
+:_content-type: CONCEPT
 [id="virt-about-container-disks_{context}"]
 = About container disks
 
@@ -24,4 +25,3 @@ Use `containerDisk` volumes for read-only file systems such as CD-ROMs or for di
 ====
 Using `containerDisk` volumes for read-write file systems is not recommended because the data is temporarily written to local storage on the hosting node. This slows live migration of the virtual machine, such as in the case of node maintenance, because the data must be migrated to the destination node. Additionally, all data is lost if the node loses power or otherwise shuts down unexpectedly.
 ====
-

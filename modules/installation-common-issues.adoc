@@ -2,6 +2,7 @@
 //
 // * installing/installing/installing-troubleshooting.adoc
 
+:_content-type: PROCEDURE
 [id="installation-common-issues_{context}"]
 = Troubleshooting common issues with installing on {rh-virtualization-first}
 

@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-features-for-storage.adoc
 
+:_content-type: REFERENCE
 [id="virt-features-for-storage-matrix_{context}"]
 = {VirtProductName} storage feature matrix
 

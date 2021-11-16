@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/cloning_vms/virt-cloning-vm-disk-into-new-datavolume.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-datavolume-clone_{context}"]
 = Template: Data volume clone configuration file
 

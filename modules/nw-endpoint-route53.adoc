@@ -2,6 +2,7 @@
 //
 // * installing/installing_aws/installing-aws-government-region.adoc
 
+:_content-type: CONCEPT
 [id="nw-endpoint-route53_{context}"]
 = Ingress Operator endpoint configuration for AWS Route 53
 

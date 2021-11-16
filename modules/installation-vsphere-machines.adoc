@@ -7,6 +7,7 @@
 // * installing/installing_vsphere/installing-vsphere.adoc
 // * installing/installing_vsphere/installing-vsphere-network-customizations.adoc
 
+:_content-type: PROCEDURE
 [id="installation-vsphere-machines_{context}"]
 = Installing {op-system} and starting the {product-title} bootstrap process
 
@@ -20,7 +21,6 @@ To install {product-title} on user-provisioned infrastructure on VMware vSphere,
 .Procedure
 
 . Convert the control plane, compute, and bootstrap Ignition config files to Base64 encoding.
-
 +
 For example, if you use a Linux operating system, you can use the `base64` command to encode the files.
 +

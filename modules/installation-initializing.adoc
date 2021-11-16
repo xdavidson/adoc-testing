@@ -134,6 +134,7 @@ ifeval::["{context}" == "installing-restricted-networks-vmc"]
 :restricted:
 endif::[]
 
+:_content-type: PROCEDURE
 [id="installation-initializing_{context}"]
 = Creating the installation configuration file
 
@@ -168,7 +169,7 @@ ifndef::aws,gcp[]
 * Retrieve a {op-system-first} image and upload it to an accessible location.
 endif::aws,gcp[]
 endif::restricted[]
-* Obtain service principal permissions at the subscription level. 
+* Obtain service principal permissions at the subscription level.
 
 .Procedure
 

@@ -1,8 +1,8 @@
 // Module included in the following assemblies:
 // //installing/installing_bare_metal_ipi/installing_bare_metal_ipi/ipi-install-troubleshooting.adoc
 
+:_content-type: PROCEDURE
 [id="ipi-install-troubleshooting-api-not-accessible_{context}"]
-
 = The API is not accessible
 
 When the cluster is running and clients cannot access the API, domain name resolution issues might impede access to the API.

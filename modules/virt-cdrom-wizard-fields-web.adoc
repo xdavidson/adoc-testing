@@ -8,6 +8,7 @@
 // * virt/virtual_machines/virt-create-vms.adoc
 // * virt/vm_templates/virt-creating-vm-template.adoc
 
+:_content-type: REFERENCE
 [id="virt-cdrom-wizard-fields-web_{context}"]
 = CD-ROM fields
 

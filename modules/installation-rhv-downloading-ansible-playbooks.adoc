@@ -2,6 +2,7 @@
 //
 // * installing/installing_rhv/installing-rhv-user-infra.adoc
 
+:_content-type: PROCEDURE
 [id="installation-rhv-downloading-ansible-playbooks_{context}"]
 = Downloading the Ansible playbooks
 
@@ -32,7 +33,7 @@ xargs -n 1 curl -O
 +
 where:
 +
-<version>:: Specifies the minor release version, such as `release-4.8`. See the branch drop-down list in the link:https://github.com/openshift/installer/tree/master/upi/ovirt[`openshift/installer` repository] for the available minor versions. 
+<version>:: Specifies the minor release version, such as `release-4.8`. See the branch drop-down list in the link:https://github.com/openshift/installer/tree/master/upi/ovirt[`openshift/installer` repository] for the available minor versions.
 endif::openshift-origin[]
 ifndef::openshift-origin[]
 [source,terminal,subs=attributes+]

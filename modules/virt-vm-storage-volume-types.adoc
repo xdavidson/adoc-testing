@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virt-create-vms.adoc
 
+:_content-type: REFERENCE
 [id="virt-vm-storage-volume-types_{context}"]
 = Virtual machine storage volume types
 

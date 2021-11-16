@@ -2,8 +2,8 @@
 //
 // * virt/logging_events_monitoring/virt-monitoring-vm-health.adoc
 
+:_content-type: PROCEDURE
 [id="virt-define-http-readiness-probe_{context}"]
-
 = Defining an HTTP readiness probe
 
 Define an HTTP readiness probe by setting the `spec.readinessProbe.httpGet` field of the virtual machine instance (VMI) configuration.

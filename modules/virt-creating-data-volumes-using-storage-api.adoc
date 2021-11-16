@@ -2,8 +2,8 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-creating-data-volumes.adoc
 
+:_content-type: CONCEPT
 [id="virt-creating-data-volumes-using-storage-api_{context}"]
-
 = Creating data volumes using the storage API
 
 When you create a data volume using the storage API, the Containerized Data Interface (CDI) optimizes your persistent volume claim (PVC) allocation based on the type of storage supported by your selected storage class. You only have to specify the data volume name, namespace, and the amount of storage that you want to allocate.

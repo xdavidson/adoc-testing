@@ -2,6 +2,7 @@
 //
 // * installing/installing-mirroring-installation-images.adoc
 
+:_content-type: CONCEPT
 [id="olm-mirror-catalog_{context}"]
 = Mirroring Operator catalogs for use with disconnected clusters
 

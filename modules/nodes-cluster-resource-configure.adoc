@@ -3,9 +3,9 @@
 // * nodes/clusters/nodes-cluster-overcommit.adoc
 // * post_installation_configuration/node-tasks.adoc
 
+:_content-type: PROCEDURE
 [id="nodes-cluster-resource-configure_{context}"]
 = Configuring cluster-level overcommit
-
 
 The Cluster Resource Override Operator requires a `ClusterResourceOverride` custom resource (CR)
 and a label for each project where you want the Operator to control overcommit.

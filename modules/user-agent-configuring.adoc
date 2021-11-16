@@ -2,12 +2,13 @@
 //
 // * authentication/configuring_user_agent.adoc
 
+:_content-type: PROCEDURE
 [id="user-agent-configuring_{context}"]
 = Configuring the user agent
 
 As an administrator, you can prevent clients from accessing the
 API with the `userAgentMatching` configuration setting of a master
-configuration. 
+configuration.
 
 
 .Procedure

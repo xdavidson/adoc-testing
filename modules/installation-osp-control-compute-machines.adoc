@@ -11,6 +11,7 @@ ifeval::["{context}" == "installing-openstack-installer-sr-iov"]
 :osp-sr-iov:
 endif::[]
 
+:_content-type: CONCEPT
 [id="installation-osp-control-compute-machines_{context}"]
 = Control plane and compute machines
 

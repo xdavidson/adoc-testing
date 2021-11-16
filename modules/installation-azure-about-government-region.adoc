@@ -2,6 +2,7 @@
 //
 // * installing/installing_azure/installing-azure-government-region.adoc
 
+:_content-type: CONCEPT
 [id="installation-azure-about-government-region_{context}"]
 = Azure government regions
 
@@ -23,5 +24,5 @@ environment.
 The Azure government region cannot be selected using the guided terminal prompts
 from the installation program. You must define the region manually in the
 `install-config.yaml` file. Remember to also set the dedicated cloud instance,
-like `AzureUSGovernmentCloud`, based on the region specified. 
+like `AzureUSGovernmentCloud`, based on the region specified.
 ====

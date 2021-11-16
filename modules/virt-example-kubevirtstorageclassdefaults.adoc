@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-storage-defaults-for-datavolumes.adoc
 
+:_content-type: REFERENCE
 [id="virt-example-kubevirtstorageclassdefaults_{context}"]
 = Example of multiple storage class defaults
 

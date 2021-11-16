@@ -2,6 +2,7 @@
 //
 // * virt/logging_events_monitoring/virt-analyzing-datavolumes-using-events-and-conditions.adoc
 
+:_content-type: CONCEPT
 [id="virt-analyzing-datavolume-conditions-and-events_{context}"]
 = Analyzing data volumes using conditions and events
 

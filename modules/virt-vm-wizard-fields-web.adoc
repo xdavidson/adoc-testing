@@ -6,6 +6,7 @@
 // VM wizard includes additional options to VM template wizard
 // Call appropriate attribute in the assembly
 
+:_content-type: REFERENCE
 [id="virt-vm-wizard-fields-web_{context}"]
 ifdef::virtualmachine[]
 = Virtual machine wizard fields

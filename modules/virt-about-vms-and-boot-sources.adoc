@@ -3,8 +3,8 @@
 // * virt/virtual_machines/virtual_disks/virt-creating-and-using-boot-sources.adoc
 // * virt/vm_templates/virt-creating-vm-template.adoc
 
+:_content-type: CONCEPT
 [id="virt-about-vms-and-boot-sources_{context}"]
-
 = About virtual machines and boot sources
 
 Virtual machines consist of a virtual machine definition and one or more disks that are backed by data volumes. Virtual machine templates enable you to create virtual machines using predefined virtual machine specifications.

@@ -2,6 +2,7 @@
 // Module included in the following assemblies:
 // * networking/configuring-routing.adoc
 
+:_content-type: PROCEDURE
 [id="nw-throughput-troubleshoot_{context}"]
 = Troubleshooting throughput issues
 Sometimes applications deployed through {product-title} can cause

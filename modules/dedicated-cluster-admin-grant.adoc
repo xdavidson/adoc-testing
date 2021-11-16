@@ -2,6 +2,7 @@
 //
 // administering_a_cluster/cluster-admin-role.adoc
 
+:_content-type: PROCEDURE
 [id="dedicated-cluster-admin-grant"]
 = Granting the cluster-admin role to users
 

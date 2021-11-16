@@ -2,6 +2,7 @@
 //
 // * virt/virt-using-the-cli-tools.adoc
 
+:_content-type: CONCEPT
 [id="virt-about-libguestfs-tools-virtctl-guestfs_{context}"]
 = Libguestfs tools and virtctl guestfs
 

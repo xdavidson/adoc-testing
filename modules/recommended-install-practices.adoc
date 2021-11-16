@@ -2,6 +2,7 @@
 //
 // * scalability_and_performance/recommended-install-practices.adoc
 
+:_content-type: CONCEPT
 [id="recommended-install-practices_{context}"]
 = Recommended practices for installing large scale clusters
 

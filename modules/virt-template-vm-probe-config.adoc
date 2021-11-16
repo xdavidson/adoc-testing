@@ -2,6 +2,7 @@
 //
 // * virt/logging_events_monitoring/virt-monitoring-vm-health.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-vm-probe-config_{context}"]
 = Template: Virtual machine configuration file for defining health checks
 

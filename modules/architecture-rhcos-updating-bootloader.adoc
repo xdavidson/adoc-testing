@@ -10,6 +10,7 @@
 // * installing/installing_bare_metal/installing-bare-metal.adoc
 // * installing/installing_bare_metal/installing-restricted-networks-bare-metal.adoc
 
+:_content-type: PROCEDURE
 [id="architecture-rhcos-updating-bootloader.adoc_{context}"]
 = Updating the bootloader using bootupd
 

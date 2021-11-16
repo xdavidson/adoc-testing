@@ -2,8 +2,8 @@
 //
 // virt/virtual_machines/virtual_disks/virt-reusing-statically-provisioned-persistent-volumes.adoc
 
+:_content-type: CONCEPT
 [id="virt-about-reclaiming-statically-provisioned-persistent-volumes_{context}"]
-
 = About reclaiming statically provisioned persistent volumes
 
 When you reclaim a persistent volume (PV), you unbind the PV from a persistent volume claim (PVC) and delete the PV. Depending on the underlying storage, you might need to manually delete the shared storage.

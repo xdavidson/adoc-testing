@@ -2,6 +2,7 @@
 //
 // -service_mesh/v2x/ossm-architecture.adoc
 
+:_content-type: CONCEPT
 [id="ossm-architecture_{context}"]
 = Service Mesh architecture
 

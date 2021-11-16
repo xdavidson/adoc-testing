@@ -2,6 +2,7 @@
 //
 // * operators/operator-reference.adoc
 
+:_content-type: REFERENCE
 [id="ingress-operator_{context}"]
 = Ingress Operator
 

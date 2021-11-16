@@ -20,8 +20,8 @@ ifeval::["{context}" == "virt-editing-vm-template"]
 :object-vm-overview: VM Template Details
 endif::[]
 
+:_content-type: PROCEDURE
 [id="virt-vm-add-disk_{context}"]
-
 = Adding a virtual disk to a {object}
 
 Use this procedure to add a virtual disk to a {object}.

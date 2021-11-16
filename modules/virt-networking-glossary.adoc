@@ -3,6 +3,7 @@
 // * virt/virtual_machines/advanced_vm_management/virt-configuring-pxe-booting.adoc
 // * virt/virtual_machines/vm_networking/virt-attaching-vm-multiple-networks.adoc
 
+:_content-type: REFERENCE
 [id="virt-networking-glossary_{context}"]
 = {VirtProductName} networking glossary
 

@@ -2,6 +2,7 @@
 //
 // installing_sno/install-sno-preparing-to-install-sno.adoc
 
+:_content-type: CONCEPT
 [id="requirements-for-installing-on-a-single-node_{context}"]
 = Requirements for installing on a single node
 
@@ -20,7 +21,7 @@ Installing {product-title} on a single node alleviates some of the requirements 
 +
 [NOTE]
 ====
-One vCPU is equivalent to one physical core when simultaneous multithreading (SMT), or hyperthreading, is not enabled. When enabled, use the following formula to calculate the corresponding ratio: 
+One vCPU is equivalent to one physical core when simultaneous multithreading (SMT), or hyperthreading, is not enabled. When enabled, use the following formula to calculate the corresponding ratio:
 
 (threads per core × cores) × sockets = vCPUs
 ====

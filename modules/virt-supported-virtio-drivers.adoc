@@ -3,6 +3,7 @@
 // * virt/virtual_machines/virt-installing-virtio-drivers-on-new-windows-vm.adoc
 // * virt/virtual_machines/virt-installing-virtio-drivers-on-existing-windows-vm.adoc
 
+:_content-type: REFERENCE
 [id="virt-supported-virtio-drivers_{context}"]
 = Supported VirtIO drivers for Microsoft Windows virtual machines
 

@@ -2,6 +2,7 @@
 //
 // * installing/installing_openstack/installing-openstack-installer-kuryr.adoc
 
+:_content-type: CONCEPT
 [id="installation-osp-kuryr-neutron-configuration_{context}"]
 = Configuring Neutron
 

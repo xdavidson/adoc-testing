@@ -43,7 +43,7 @@ ifeval::["{context}" == "installing-rhv-restricted-network"]
 :rhv:
 endif::[]
 
-
+:_content-type: REFERENCE
 [id="installation-bare-metal-config-yaml_{context}"]
 ifndef::ibm-z,ibm-z-kvm,ibm-power,agnostic,rhv[]
 = Sample `install-config.yaml` file for bare metal

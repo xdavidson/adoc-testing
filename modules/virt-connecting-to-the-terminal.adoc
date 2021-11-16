@@ -2,9 +2,10 @@
 //
 // * virt/virtual_machines/virt-accessing-vm-consoles.adoc
 
+:_content-type: PROCEDURE
 [id="virt-connecting-to-the-terminal_{context}"]
-
 = Connecting to the terminal
+
 You can connect to a virtual machine by using the web console.
 
 .Procedure

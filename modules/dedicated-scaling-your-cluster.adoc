@@ -2,6 +2,7 @@
 //
 // * getting_started/scaling_your_cluster.adoc
 
+:_content-type: PROCEDURE
 [id="dedicated-scaling-your-cluster_{context}"]
 = Scaling your cluster
 

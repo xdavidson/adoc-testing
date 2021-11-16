@@ -4,6 +4,7 @@
 
 :operator-name: vSphere Problem Detector Operator
 
+:_content-type: REFERENCE
 [id="vsphere-problem-detector-config-checks_{context}"]
 = Configuration checks run by the {operator-name}
 

@@ -7,17 +7,17 @@
 // * installing/installing_openstack/installing-openstack-user.adoc
 // * installing/installing_openstack/installing-openstack-user-kuryr.adoc
 
-
+:_content-type: PROCEDURE
 [id="installation-osp-setting-worker-affinity_{context}"]
 = Setting compute machine affinity
 
-Optionally, you can set the affinity policy for compute machines during installation. The installer does not select an affinity policy for compute machines by default. 
+Optionally, you can set the affinity policy for compute machines during installation. The installer does not select an affinity policy for compute machines by default.
 
-You can also create machine sets that use particular {rh-openstack} server groups after installation. 
+You can also create machine sets that use particular {rh-openstack} server groups after installation.
 
 [NOTE]
 ====
-Control plane machines are created with a `soft-anti-affinity` policy. 
+Control plane machines are created with a `soft-anti-affinity` policy.
 ====
 
 [TIP]
@@ -118,4 +118,4 @@ spec:
 
 . Optional: Back up the `manifests/99_openshift-cluster-api_worker-machineset-0.yaml` file. The installation program deletes the `manifests/` directory when creating the cluster.
 
-When you install the cluster, the installer uses the `MachineSet` definition that you modified to create compute machines within your {rh-openstack} server group. 
+When you install the cluster, the installer uses the `MachineSet` definition that you modified to create compute machines within your {rh-openstack} server group.

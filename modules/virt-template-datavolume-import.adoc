@@ -2,6 +2,7 @@
 //
 // * virt/virtual_machines/importing_vms/virt-importing-virtual-machine-images-datavolumes.adoc
 
+:_content-type: REFERENCE
 [id="virt-template-datavolume-import_{context}"]
 = Template: Data volume import configuration file
 

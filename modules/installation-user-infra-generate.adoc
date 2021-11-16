@@ -60,6 +60,7 @@ ifeval::["{context}" == "installing-openstack-user-sr-iov-kuryr"]
 :cp: RHOSP
 endif::[]
 
+:_content-type: CONCEPT
 [id="installation-user-infra-generate_{context}"]
 = Creating the installation files for {cp}
 

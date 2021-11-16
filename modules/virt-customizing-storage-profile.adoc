@@ -2,8 +2,8 @@
 //
 // * virt/virtual_machines/virtual_disks/virt-creating-data-volumes.adoc
 
+:_content-type: PROCEDURE
 [id="virt-customizing-storage-profile_{context}"]
-
 = Customizing the storage profile
 
 You can specify default parameters by editing the `StorageProfile` object for the provisioner's storage class. These default parameters only apply to the persistent volume claim (PVC) if they are not configured in the `DataVolume` object.

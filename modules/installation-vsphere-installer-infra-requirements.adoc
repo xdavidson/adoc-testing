@@ -16,6 +16,7 @@ ifeval::["{context}" == "installing-restricted-networks-vmc"]
 :restricted:
 endif::[]
 
+:_content-type: REFERENCE
 [id="installation-vsphere-installer-infra-requirements_{context}"]
 = vCenter requirements
 

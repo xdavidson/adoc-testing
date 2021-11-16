@@ -25,6 +25,7 @@ ifeval::["{context}" == "installing-restricted-networks-vmc"]
 :restricted:
 endif::[]
 
+:_content-type: CONCEPT
 [id="setting-up-vmc-for-vsphere_{context}"]
 = Setting up VMC for vSphere
 

@@ -2,6 +2,7 @@
 //
 // * welcome/accessing-your-services.adoc
 
+:_content-type: CONCEPT
 [id="dedicated-configuring-your-application-routes_{context}"]
 = Configuring your application routes
 

@@ -1,3 +1,4 @@
+:_content-type: CONCEPT
 [id="networking-osp-preparing-for-sr-iov_{context}"]
 = Preparing a cluster that runs on {rh-openstack} for SR-IOV
 

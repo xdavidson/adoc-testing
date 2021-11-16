@@ -2,6 +2,7 @@
 //
 // * operators/operator-reference.adoc
 
+:_content-type: REFERENCE
 [id="cluster-monitoring-operator_{context}"]
 = Cluster Monitoring Operator
 

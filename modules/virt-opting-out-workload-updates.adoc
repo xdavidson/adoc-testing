@@ -2,6 +2,7 @@
 //
 // * virt/upgrading-virt.adoc
 
+:_content-type: PROCEDURE
 [id="virt-opting-out-workload-updates_{context}"]
 = Opting out of automatic workload updates before you upgrade to {VirtProductName} {VirtVersion}
 

@@ -35,7 +35,7 @@ following are the default ranges available to use:
 In the *Overview* tab under the *Details* heading will have a *Status*
 indicator. This will indicate that your cluster is *Ready* for use.
 
-= Accessing your cluster
+== Accessing your cluster
 
 To access your {product-title} cluster:
 

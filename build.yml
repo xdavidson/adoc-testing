@@ -13,6 +13,12 @@ variants:
        - installing/**/*.adoc
      excluded:
        - _unused_topics/**/*.adoc
+       - _package/**/*.*
+       - _stylesheets/**/*.*
+       - scripts/**/*.*
+       - getting_started/**/*.adoc
+       - cloud_infrastructure_access/**/*.adoc
+       - administering_a_cluster/**/*.adoc
  - name: openshift-container-platform
    attributes:
     - _attributes/ocp-attributes.adoc
@@ -26,6 +32,13 @@ variants:
        - installing/**/*.adoc
      excluded:
        - _unused_topics/**/*.adoc
+       - _package/**/*.*
+       - _stylesheets/**/*.*
+       - scripts/**/*.*
+       - whats_new/**/*.adoc
+       - getting_started/**/*.adoc
+       - cloud_infrastructure_access/**/*.adoc
+       - administering_a_cluster/**/*.adoc
  - name: openshift-dedicated
    attributes:
     - _attributes/osd-attributes.adoc
@@ -40,3 +53,8 @@ variants:
        - administering_a_cluster/**/*.adoc
      excluded:
        - _unused_topics/**/*.adoc
+       - _package/**/*.*
+       - _stylesheets/**/*.*
+       - scripts/**/*.*
+       - installing/**/*.adoc
+       - whats_new/**/*.adoc

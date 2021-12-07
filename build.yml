@@ -22,16 +22,15 @@ variants:
        - modules/**/*.adoc
        - release_notes/**/*.adoc
        - installing/**/*.adoc
-- name: openshift-dedicated
-  attributes:
-   - _attributes/osd-attributes.adoc
-  build: true
-  files:
-    included:
-      - architecture/**/*.adoc
-      - welcome/**/*.adoc
-      - modules/**/*.adoc
-      dedicated
-      - getting_started/**/*.adoc
-      - cloud_infrastructure_access/**/*.adoc
-      - administering_a_cluster/**/*.adoc
+ - name: openshift-dedicated
+   attributes:
+    - _attributes/osd-attributes.adoc
+   build: true
+   files:
+     included:
+       - architecture/**/*.adoc
+       - welcome/**/*.adoc
+       - modules/**/*.adoc
+       - getting_started/**/*.adoc
+       - cloud_infrastructure_access/**/*.adoc
+       - administering_a_cluster/**/*.adoc

@@ -12,7 +12,7 @@ variants:
        - whats_new/**/*.adoc
        - installing/**/*.adoc
      excluded:
-       - _unused_topics/**/*.adoc
+       - _unused_topics/*.adoc
        - _package/**/*.*
        - _stylesheets/**/*.*
        - scripts/**/*.*
@@ -31,7 +31,7 @@ variants:
        - release_notes/**/*.adoc
        - installing/**/*.adoc
      excluded:
-       - _unused_topics/**/*.adoc
+       - _unused_topics/*.adoc
        - _package/**/*.*
        - _stylesheets/**/*.*
        - scripts/**/*.*
@@ -52,7 +52,7 @@ variants:
        - cloud_infrastructure_access/**/*.adoc
        - administering_a_cluster/**/*.adoc
      excluded:
-       - _unused_topics/**/*.adoc
+       - _unused_topics/*.adoc
        - _package/**/*.*
        - _stylesheets/**/*.*
        - scripts/**/*.*

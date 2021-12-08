@@ -3,10 +3,10 @@
 // See https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/doc_guidelines.adoc#product-name-version for more information on this topic.
 // Other common attributes are defined in the following lines:
 :data-uri:
-:icons:
+#:icons:
 :experimental:
-:toc: macro
-:toc-title:
+#:toc: macro
+#:toc-title:
 :imagesdir: images
 :prewrap!:
 :op-system-first: Red Hat Enterprise Linux CoreOS (RHCOS)

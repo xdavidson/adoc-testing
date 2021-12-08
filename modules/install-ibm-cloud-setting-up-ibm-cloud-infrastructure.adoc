@@ -34,13 +34,13 @@ IBM Cloud private VLAN subnets use a `/26` prefix by default, which provides 64 
 
 .IP addresses per prefix
 [options="header"]
-|====
+|===
 |IP addresses |Prefix
 |32| `/27`
 |64| `/26`
 |128| `/25`
 |256| `/24`
-|====
+|===
 
 [discrete]
 == Configuring NICs

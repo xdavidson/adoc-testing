@@ -2,7 +2,9 @@ repository: ocp-tests
 variants:
  - name: okd
    attributes:
-    - _artifacts/okd-attributes.adoc
+     - _artifacts/okd-attributes.adoc
+   nav:
+     - _artifacts/toc.yml
    build: true
    files:
      included:
@@ -11,9 +13,19 @@ variants:
        - modules/**/*.adoc
        - whats_new/**/*.adoc
        - installing/**/*.adoc
+     excluded:
+       - _unused_topics
+       - _package
+       - _stylesheets
+       - scripts
+       - getting_started
+       - cloud_infrastructure_access
+       - administering_a_cluster
  - name: openshift-container-platform
    attributes:
-    - _artifacts/ocp-attributes.adoc
+     - _attributes/ocp-attributes.adoc
+   nav:
+     - _artifacts/toc.yml
    build: true
    files:
      included:
@@ -22,9 +34,20 @@ variants:
        - modules/**/*.adoc
        - release_notes/**/*.adoc
        - installing/**/*.adoc
+     excluded:
+       - _unused_topics
+       - _package
+       - _stylesheets
+       - scripts
+       - whats_new
+       - getting_started
+       - cloud_infrastructure_access
+       - administering_a_cluster
  - name: openshift-dedicated
    attributes:
-    - _artifacts/osd-attributes.adoc
+     - _artifacts/osd-attributes.adoc
+   nav:
+     - _artifacts/toc.yml
    build: true
    files:
      included:
@@ -34,3 +57,10 @@ variants:
        - getting_started/**/*.adoc
        - cloud_infrastructure_access/**/*.adoc
        - administering_a_cluster/**/*.adoc
+     excluded:
+       - _unused_topics
+       - _package
+       - _stylesheets
+       - scripts
+       - installing
+       - whats_new

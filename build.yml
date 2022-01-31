@@ -8,10 +8,15 @@ variants:
    files:
      included:
        - architecture/**/*.adoc
+       - architecture/*.adoc
        - welcome/**/*.adoc
+       - welcome/*.adoc
        - modules/**/*.adoc
+       - modules/*.adoc
        - whats_new/**/*.adoc
+       - whats_new/*.adoc
        - installing/**/*.adoc
+       - installing/*.adoc
      excluded:
        - _unused_topics
        - _package
@@ -28,10 +33,15 @@ variants:
    files:
      included:
        - architecture/**/*.adoc
+       - architecture/*.adoc
        - welcome/**/*.adoc
+       - welcome/*.adoc
        - modules/**/*.adoc
-       - release_notes/**/*.adoc
+       - modules/*.adoc
+       - whats_new/**/*.adoc
+       - whats_new/*.adoc
        - installing/**/*.adoc
+       - installing/*.adoc
      excluded:
        - _unused_topics
        - _package
@@ -49,11 +59,21 @@ variants:
    files:
      included:
        - architecture/**/*.adoc
+       - architecture/*.adoc
        - welcome/**/*.adoc
+       - welcome/*.adoc
        - modules/**/*.adoc
+       - modules/*.adoc
+       - whats_new/**/*.adoc
+       - whats_new/*.adoc
+       - installing/**/*.adoc
+       - installing/*.adoc
        - getting_started/**/*.adoc
+       - getting_started/*.adoc
        - cloud_infrastructure_access/**/*.adoc
+       - cloud_infrastructure_access/*.adoc
        - administering_a_cluster/**/*.adoc
+       - administering_a_cluster/*.adoc
      excluded:
        - _unused_topics
        - _package

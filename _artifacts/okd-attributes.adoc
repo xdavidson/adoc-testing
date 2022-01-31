@@ -1,0 +1,4 @@
+:product-title: OpenShift Community Distribution
+:product-version: 4.9
+:openshift-enterprise: false
+:doctype: book

@@ -1,8 +1,8 @@
 repository: ocp-tests
 variants:
- - name: okd
+ - name: ocp
    attributes:
-     - _artifacts/okd-attributes.adoc
+     - _artifacts/ocp-attributes.adoc
    nav: _artifacts/toc.yml
    build: true
    files:
